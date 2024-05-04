@@ -1,0 +1,9 @@
+a=float(input())
+if(a>6):
+    print("tall")
+elif(4<=a<=6):
+    print("average")
+elif(a<4):
+    print("short")    
+else:
+    print("invalid")
